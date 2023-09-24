@@ -12,6 +12,7 @@ requests = "*"
 trading-ig = "*"
 matplotlib = "*"
 mplfinance = "*"
+cryptography = "*"
 
 [dev-packages]
 
